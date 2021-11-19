@@ -27,3 +27,9 @@ https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-no
 
 1. create an .env file with the Storage string. Sample: ``STORAGE_CONNECTION_STRING=DefaultEndpointsProtocol=https;AccountName=12blobwithjavascript;AccountKey=XXXX;EndpointSuffix=core.windows.net``
 2. Open VS Code’s terminal by clicking Terminal, type node file_name.js where file_name.js is the name of your JavaScript file.
+
+
+# Browsers
+Based on: [Azure Storage Blob client library for JavaScript](https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/storage/storage-blob/README.md)
+
+
